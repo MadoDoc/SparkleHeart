@@ -586,6 +586,11 @@ textarea {
         margin-top: 15px;
         color: #FFFFFF;
     }
+
+    .play-button {
+        top: 35%;
+        left: 42%;
+    }
 }
 
 
